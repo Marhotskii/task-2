@@ -1,0 +1,7 @@
+{
+    "port": 5000,
+    "hostname" : "localhost", 
+    "username" : "root", 
+    "password" : "root", 
+    "databasename" : "task1"
+}
